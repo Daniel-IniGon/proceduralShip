@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Procedural Ship",
+"productVersion": "0.1",
+"dataUrl": "proceduralShip.data.unityweb",
+"wasmCodeUrl": "proceduralShip.wasm.code.unityweb",
+"wasmFrameworkUrl": "proceduralShip.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
